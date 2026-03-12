@@ -73,4 +73,7 @@ modernize WooCommerce frontend
 
 ![Slick theme preview](./screenshot.png)
 
+
+in progress...
+
 ## Author: AKC / kania0507
